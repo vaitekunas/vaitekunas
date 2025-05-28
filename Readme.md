@@ -31,9 +31,18 @@ As a Data Scientist, I primarily work with `Python` and `SQL`. For projects that
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
 
 ### 🌟 Hobbies
-<a class="link" href="hobbies.svg">
-    <img class="image" src="hobbies.svg" alt="Hobbies">
-</a>
+
+There is a [saying](https://www.goodreads.com/quotes/1798-you-are-the-average-of-the-five-people-you-spend): you are the average of the five people you spend the most time with. Well, when it comes to hobbies, this can be translated to:
+                
+> Your hobbies correspond to the five [subreddits](https://en.wikipedia.org/wiki/Reddit#Subreddits) you frequent the most.
+
+That being said, I spend a lot of my free time tinkering with my homelab, 3D-printing (and 3D-cleaning-up), building and clacking mechanical keyboards, ricing my linux machines in accordance to the latest trends in *unixporn*, and letting the magic smoke out in my experiments with electronics.
+
+|![My homelab](assets/homelab.jpg)|![Poor man's deep learning rig](assets/ml_server.jpg)|![My ergonomic split keebs](assets/keebs.jpg)|
+|------------|--------------------|-------------|
+| Having a bunch of servers, a NAS, networking gear and raw *aesthetics* is cool. Paying 0.4€/kWh in Germany is less so. | Poor man's deep learning rig: <br> > Mom, can we have some LLMs? <br> > We have LLMs at home! <br> > \*LLMs at home\* | How many keyboards does a person really need?<br>The number you're thinking right now is really an order of magnitude lower than it should be.<br>Once you go *clack*, you can never go back. | 
+
+
 
 
 ### 🔗 Get in touch
