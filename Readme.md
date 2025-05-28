@@ -1,28 +1,3 @@
-<style>
-    .float-image {
-        float: left;
-        margin-right: 16px;
-    }
-
-    .float-image.right {
-        float: right;
-        margin-left: 16px;
-    }
-
-    .container::after {
-        content: "";
-        display: block;
-        clear: both;
-    }
-    @media (max-width: 600px) {
-        .container {
-            flex-direction: column;
-            align-items: stretch; 
-            clear: both;
-        }
-    }
-</style>    
-
 ### ✨ About me
 
 Hi, I'm Mindaugas, aka *mindow*. I'm a Full Stack Data Scientist,
@@ -56,7 +31,31 @@ As a Data Scientist, I primarily work with `Python` and `SQL`. For projects that
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
 
 ### 🌟 Hobbies
-
+<svg fill="none" viewBox="0 0 800 500" width="800" height="500" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">      
+<style>
+    .float-image {
+        float: left;
+        margin-right: 16px;
+    }
+    .float-image.right {
+        float: right;
+        margin-left: 16px;
+    }
+    .container::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+    @media (max-width: 600px) {
+        .container {
+            flex-direction: column;
+            align-items: stretch; 
+            clear: both;
+        }
+    }
+</style>   
 <div class="container">  
     <p>
         There is a <a href="https://www.goodreads.com/quotes/1798-you-are-the-average-of-the-five-people-you-spend" target="_blank">saying</a>: you are the average of the five people you spend the most time with. Well, when it comes to hobbies, this can be translated to:
@@ -70,14 +69,16 @@ As a Data Scientist, I primarily work with `Python` and `SQL`. For projects that
         <img alt="My homelab" src="assets/homelab.jpg" class="float-image" height="400"/>
         <p>
             That being said, I spend a lot of my free time tinkering with my homelab, 3D-printing (and 3D-cleaning-up), building and clacking mechanical keyboards, ricing my linux machines in accordance to the latest trends in unixporn, and letting the magic smoke out in my experiments with electronics.
-        </p>            
-        <img alt="My split ergonomic keyboards" src="assets/keebs.jpg" class="float-image right" width="300"/>
+        </p>       
+        <img alt="My split ergonomic keyboards" src="assets/keebs.jpg" class="float-image right" width="300"/>             
         <p>
             How many keyboards does a person really need? The number you're thinking right now is really an order of magnitude lower than it should be. Once you *clack*, you can never go back.
-        </p>        
+        </p>                
     </p>
 </div>
-    
+</div>
+</foreignObject>
+</svg>
 
 ### 🔗 Get in touch
 
