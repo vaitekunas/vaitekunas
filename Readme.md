@@ -1,6 +1,6 @@
 ### ✨ About me
 
-Hi, I'm Mindaugas, aka *mindow*. I'm a full-stack data scientist,
+Hi, I'm Mindaugas, aka *mindow*. I'm a Full Stack Data Scientist,
 with 10+ years of experience using
 predictive analytics, data engineering and software development
 to do all kinds of *funky* stuff. I enjoy building things all the way
@@ -11,9 +11,9 @@ Currently working as a senior data scientist at a consulting firm in [Nuremberg,
 
 ### 🛠️ Tech stack
 
-As a data scientist, I mostly rely on the traditional stack of `python` and `SQL`.
-In projects that require it, I use `vue.js` to build reactive frontends (see [here](https://github.com/vaitekunas/reviewer) for an example).
-Less *data-sciency* projects I implement in `java`, and for side projects I stick to `rust`.
+As a Data Scientist, I primarily work with the traditional stack of `Python` and `SQL`.  
+For projects that need a reactive frontend, I use `Vue.js` ([for example](https://github.com/vaitekunas/reviewer)). When I'm working on less *data-sciency* applications, I turn to `Java`, while my side projects are usually written in `Rust`.
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
@@ -27,6 +27,7 @@ Less *data-sciency* projects I implement in `java`, and for side projects I stic
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
 
