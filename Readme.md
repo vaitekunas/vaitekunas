@@ -1,3 +1,28 @@
+<style>
+    .float-image {
+        float: left;
+        margin-right: 16px;
+    }
+
+    .float-image.right {
+        float: right;
+        margin-left: 16px;
+    }
+
+    .container::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+    @media (max-width: 600px) {
+        .container {
+            flex-direction: column;
+            align-items: stretch; 
+            clear: both;
+        }
+    }
+</style>    
+
 ### ✨ About me
 
 Hi, I'm Mindaugas, aka *mindow*. I'm a Full Stack Data Scientist,
@@ -11,8 +36,7 @@ Currently working as a senior data scientist at a consulting firm in [Nuremberg,
 
 ### 🛠️ Tech stack
 
-As a Data Scientist, I primarily work with the traditional stack of `Python` and `SQL`.  
-For projects that need a reactive frontend, I use `Vue.js` ([for example](https://github.com/vaitekunas/reviewer)). When I'm working on less *data-sciency* applications, I turn to `Java`, while my side projects are usually written in `Rust`.
+As a Data Scientist, I primarily work with `Python` and `SQL`. For projects that require a reactive frontend, [like in this one](https://github.com/vaitekunas/reviewer), I use `Vue.js`. When I'm building less *data-sciency* applications, I often turn to `Java`. And for side projects, I usually reach for `Rust`.
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -31,6 +55,29 @@ For projects that need a reactive frontend, I use `Vue.js` ([for example](https:
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
 
+### 🌟 Hobbies
+
+<div class="container">  
+    <p>
+        There is a <a href="https://www.goodreads.com/quotes/1798-you-are-the-average-of-the-five-people-you-spend" target="_blank">saying</a>: you are the average of the five people you spend the most time with. Well, when it comes to hobbies, this can be translated to:
+    </p>
+    <p>
+        <blockquote>
+            Your hobbies correspond to the five <a href="https://en.wikipedia.org/wiki/Reddit#Subreddits" target="_blank">subreddits</a> you frequent the most.
+        </blockquote>
+    </p>
+    <p>
+        <img alt="My homelab" src="assets/homelab.jpg" class="float-image" height="400"/>
+        <p>
+            That being said, I spend a lot of my free time tinkering with my homelab, 3D-printing (and 3D-cleaning-up), building and clacking mechanical keyboards, ricing my linux machines in accordance to the latest trends in unixporn, and letting the magic smoke out in my experiments with electronics.
+        </p>            
+        <img alt="My split ergonomic keyboards" src="assets/keebs.jpg" class="float-image right" width="300"/>
+        <p>
+            How many keyboards does a person really need? The number you're thinking right now is really an order of magnitude lower than it should be. Once you *clack*, you can never go back.
+        </p>        
+    </p>
+</div>
+    
 
 ### 🔗 Get in touch
 
