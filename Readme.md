@@ -1,18 +1,19 @@
 ### ✨ About me
 
-Hi, I'm Mindaugas, aka *mindow*. I'm a Full Stack Data Scientist,
+Hi, I'm Mindaugas, aka *mindow*.
+I'm a Full Stack Data Scientist,
 with 10+ years of experience using
 predictive analytics, data engineering and software development
-to do all kinds of *funky* stuff. I enjoy building things all the way
-from an abstract idea, to something you can touch
-(inasmuch as you can touch digital products).
+to build intelligent, end-to-end solutions that solve real-world problems.
+I enjoy turning abstract ideas into working, tangible systems
+(inasmuch as you can touch digital products) delivering results that are both
+technically sound and genuinely useful.
 
-Currently working as a senior data scientist at a consulting firm in [Nuremberg, Germany](https://www.google.com/maps/place/Nuremberg/).
+Currently working as a Lead Data Science Engineer at a consulting firm in [Nuremberg, Germany](https://www.google.com/maps/place/Nuremberg/).
 
 ### 🛠️ Tech stack
 
 As a Data Scientist, I primarily work with `Python` and `SQL`. For projects that require a reactive frontend, [like in this one](https://github.com/vaitekunas/reviewer), I use `Vue.js`. When I'm building less *data-sciency* applications, I often turn to `Java`. And for side projects, I usually reach for `Rust`.
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
@@ -33,14 +34,14 @@ As a Data Scientist, I primarily work with `Python` and `SQL`. For projects that
 ### 🌟 Hobbies
 
 There is a [saying](https://www.goodreads.com/quotes/1798-you-are-the-average-of-the-five-people-you-spend): you are the average of the five people you spend the most time with. Well, when it comes to hobbies, this can be translated to:
-                
+
 > Your hobbies correspond to the five [subreddits](https://en.wikipedia.org/wiki/Reddit#Subreddits) you frequent the most.
 
 That being said, I spend a lot of my free time tinkering with my homelab, 3D-printing (and 3D-cleaning-up), building and clacking mechanical keyboards, ricing my linux machines in accordance to the latest trends in *unixporn*, and letting the magic smoke out in my experiments with electronics.
 
 |![My homelab](assets/homelab.jpg)|![Poor man's deep learning rig](assets/ml_server.jpg)|![My ergonomic split keebs](assets/keebs.jpg)|
 |------------|--------------------|-------------|
-| Having a bunch of servers, a NAS, networking gear and raw *aesthetics* is cool. Paying 0.4€/kWh in Germany is less so. | Poor man's deep learning rig: <br> > Mom, can we have some LLMs? <br> > We have LLMs at home! <br> > \*LLMs at home\* | How many keyboards does a person really need?<br>The number you're thinking right now is really an order of magnitude lower than it should be.<br>Once you go *clack*, you can never go back. | 
+| Having a bunch of servers, a NAS, networking gear and raw *aesthetics* is cool. Paying 0.4€/kWh in Germany is less so. | Poor man's deep learning rig: <br> > Mom, can we have some LLMs? <br> > We have LLMs at home! <br> > \*LLMs at home\* | How many keyboards does a person really need?<br>The number you're thinking right now is really an order of magnitude lower than it should be.<br>Once you go *clack*, you can never go back. |
 
 
 
